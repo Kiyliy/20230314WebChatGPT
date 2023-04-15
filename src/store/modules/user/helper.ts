@@ -16,7 +16,7 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
-      name: 'K-Render',
+      name: 'kimi',
       description: '世界碎了，但潮汐在心中 </a>',
     },
   }
